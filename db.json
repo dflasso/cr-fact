@@ -1,6 +1,5 @@
 {
   "admin": {
-    {
       "id": 1,
       "user": 1,
       "company": "hello",
@@ -11,10 +10,8 @@
           "name": "Inicio"
         }
       ]
-    }
-},
+  },
   "seller": {
-    {
       "id": 2,
       "user": 1,
       "company": "hello",
@@ -25,8 +22,7 @@
           "name": "Inicio"
         }
       ]
-    }
-},
+  },
   "profile": {
     "name": "typicode"
   }
