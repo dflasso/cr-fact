@@ -1,8 +1,15 @@
 {
-  "posts": [
+  "autentication": [
     {
-      "id": 1,
-      "title": "hello"
+      "user": 1,
+      "company": "hello",
+      "profile": "admin",
+      "resource": [
+        {
+          "id": 1,
+          "name": "Inicio"
+        }
+      ]
     }
   ],
   "profile": {
