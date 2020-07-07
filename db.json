@@ -1,5 +1,5 @@
 {
-  "autentication": [
+  "admin": {
     {
       "id": 1,
       "user": 1,
@@ -12,7 +12,21 @@
         }
       ]
     }
-  ],
+},
+  "seller": {
+    {
+      "id": 2,
+      "user": 1,
+      "company": "hello",
+      "profile": "admin",
+      "resource": [
+        {
+          "id": 1,
+          "name": "Inicio"
+        }
+      ]
+    }
+},
   "profile": {
     "name": "typicode"
   }
