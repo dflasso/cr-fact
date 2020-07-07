@@ -4,10 +4,25 @@
       "user": 1,
       "company": "hello",
       "profile": "admin",
+      "token": "hhhasuanduan#",
       "resource": [
         {
           "id": 1,
-          "name": "Inicio"
+          "nameMenu": "Inicio",
+          "titlePage": "Inicio",
+          "menuPadre": true
+        },
+        {
+          "id": 2,
+          "nameMenu": "Administracion",
+          "titlePage": "Administracion",
+          "menuPadre": null
+        },
+        {
+          "id": 3,
+          "nameMenu": "Usuarios",
+          "titlePage": "Administracion de Usuarios",
+          "menuPadre": 2
         }
       ]
   },
@@ -16,10 +31,31 @@
       "user": 1,
       "company": "hello",
       "profile": "admin",
+          "token": "hhhasuanduan#",
       "resource": [
         {
           "id": 1,
-          "name": "Inicio"
+          "nameMenu": "Inicio",
+          "titlePage": "Inicio",
+          "menuPadre": true
+        },
+        {
+          "id": 2,
+          "nameMenu": "Administracion",
+          "titlePage": "Administracion",
+          "menuPadre": null
+        },
+        {
+          "id": 3,
+          "nameMenu": "Clientes",
+          "titlePage": "Administracion de Clientes",
+          "menuPadre": 2
+        },
+        {
+          "id": 4,
+          "nameMenu": "Productos / Servicios",
+          "titlePage": "Administracion de Productos / Servicios",
+          "menuPadre": 2
         }
       ]
   },
