@@ -2,8 +2,9 @@
   "admin": {
       "id": 1,
       "user": 1,
-      "company": "hello",
+      "company": "1726039967001",
       "profile": "admin",
+      "CI": "1726039967",
       "token": "hhhasuanduan#",
       "resource": [
         {
@@ -29,7 +30,8 @@
   "seller": {
       "id": 2,
       "user": 1,
-      "company": "hello",
+      "company": "1726039967001",
+       "CI": "1726039967",
       "profile": "admin",
           "token": "hhhasuanduan#",
       "resource": [
