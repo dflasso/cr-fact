@@ -63,5 +63,11 @@
   },
   "profile": {
     "name": "typicode"
+  },
+  "factura":{
+    "numero":"001-001-0000023",
+    "fechaEmision":"04/06/2020",
+    "fechaAutorizacion":"04/06/2020",
+    "emisor":"COMPAÑÍA FACTORING ELECTRÓNICO ECUADOR"
   }
 }
