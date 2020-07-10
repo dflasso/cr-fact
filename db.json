@@ -1,6 +1,6 @@
 {
   "admin-primer-logeo": {
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKV1QgREVWIiwiaWF0IjoxNTk0NDIwNDMzLCJleHAiOjE2MjU5NTY0MzMsImF1ZCI6Ind3dy5leGFtcGxlLmNvbSIsInN1YiI6Impyb2NrZXRAZXhhbXBsZS5jb20iLCJpZEVtcHJlc2EiOiIxNzI2MDM5OTY3Iiwibm9tYnJlVXN1YXJpbyI6InBhdWwuYWxjaXZhciIsInBlcmZpbCI6IkFETSIsImVzdGFkbyI6IkFDVCJ9.DHI_w9TdDGwS1TsjSIqaqbA48kLGp-oEsWOltqqqxAk",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKV1QgREVWIiwiaWF0IjoxNTk0NDIwNDMzLCJleHAiOjE2MjU5NTY0MzMsImF1ZCI6Ind3dy5leGFtcGxlLmNvbSIsInN1YiI6Impyb2NrZXRAZXhhbXBsZS5jb20iLCJpZEVtcHJlc2EiOiIxNzI2MDM5OTY3Iiwibm9tYnJlVXN1YXJpbyI6InBhdWwuYWxjaXZhciIsInBlcmZpbCI6IkFETSIsImVzdGFkbyI6IlBSSSJ9.NkdpM6PHxDZu5GNUTblnO7pmqqj15uNs6r9wiEL78YI",
       "recursos": [
         {
           "id": 1,
