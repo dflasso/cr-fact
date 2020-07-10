@@ -22,7 +22,7 @@
         }
       ]
   },
- "admins": {
+ "admin": {
       "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1OTQzOTA1MzIsImV4cCI6MTYyNjAxMjkzMiwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImlkRW1wcmVzYSI6IjE3NDY4NzY2NTAwMSIsIm5vbWJyZVVzdWFyaW8iOiJwYXVsLmFsY2l2YXIiLCJwZXJmaWwiOiJBRE0iLCJlc3RhZG8iOiJBQ1QifQ.RgzqyzXhGK_Es2dTPfF2XwvOPH6PuLWf1UeWeToKuns",
       "recursos": [
         {
