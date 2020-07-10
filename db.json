@@ -1,6 +1,29 @@
 {
-  "admin": {
+  "admin-primer-logeo": {
       "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1OTQzOTA1MzIsImV4cCI6MTYyNjAxMjkzMiwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImlkRW1wcmVzYSI6IjE3NDY4NzY2NTAwMSIsIm5vbWJyZVVzdWFyaW8iOiJwYXVsLmFsY2l2YXIiLCJwZXJmaWwiOiJBTVQiLCJlc3RhZG8iOiJQUkkifQ.T9ZZ2LMb-3AgAgo-sqCT6yC6yq9OIOB8SjPd1ECo-SI",
+      "recursos": [
+        {
+          "id": 1,
+          "nameMenu": "Inicio",
+          "titlePage": "Inicio",
+          "menuPadre": true
+        },
+        {
+          "id": 2,
+          "nameMenu": "Administracion",
+          "titlePage": "Administracion",
+          "menuPadre": null
+        },
+        {
+          "id": 3,
+          "nameMenu": "Usuarios",
+          "titlePage": "Administracion de Usuarios",
+          "menuPadre": 2
+        }
+      ]
+  },
+ "admin": {
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1OTQzOTA1MzIsImV4cCI6MTYyNjAxMjkzMiwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImlkRW1wcmVzYSI6IjE3NDY4NzY2NTAwMSIsIm5vbWJyZVVzdWFyaW8iOiJwYXVsLmFsY2l2YXIiLCJwZXJmaWwiOiJBTVQiLCJlc3RhZG8iOiJBQ1QifQ.eLmsebowc5ME2RQ_fR0xEaKKwscUiLbPbFpyt4mG_lQ",
       "recursos": [
         {
           "id": 1,
