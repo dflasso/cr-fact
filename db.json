@@ -1,6 +1,6 @@
 {
   "admin-primer-logeo": {
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1OTQzOTA1MzIsImV4cCI6MTYyNjAxMjkzMiwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImlkRW1wcmVzYSI6IjE3NDY4NzY2NTAwMSIsIm5vbWJyZVVzdWFyaW8iOiJwYXVsLmFsY2l2YXIiLCJwZXJmaWwiOiJBTVQiLCJlc3RhZG8iOiJQUkkifQ.T9ZZ2LMb-3AgAgo-sqCT6yC6yq9OIOB8SjPd1ECo-SI",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKV1QgREVWIiwiaWF0IjoxNTk0NDIwNDMzLCJleHAiOjE2MjU5NTY0MzMsImF1ZCI6Ind3dy5leGFtcGxlLmNvbSIsInN1YiI6Impyb2NrZXRAZXhhbXBsZS5jb20iLCJpZEVtcHJlc2EiOiIxNzI2MDM5OTY3Iiwibm9tYnJlVXN1YXJpbyI6InBhdWwuYWxjaXZhciIsInBlcmZpbCI6IkFETSIsImVzdGFkbyI6IkFDVCJ9.DHI_w9TdDGwS1TsjSIqaqbA48kLGp-oEsWOltqqqxAk",
       "recursos": [
         {
           "id": 1,
