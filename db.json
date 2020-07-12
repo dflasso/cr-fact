@@ -41,7 +41,7 @@
           "id": 1,
           "nameMenu": "Inicio",
           "titlePage": "Inicio",
-          "menuPadre": true
+          "menuPadre": null
         },
         {
           "id": 2,
@@ -51,9 +51,21 @@
         },
         {
           "id": 3,
-          "nameMenu": "Usuarios",
+          "nameMenu": "Repositorio de Comprobantes",
           "titlePage": "Administracion de Usuarios",
+          "menuPadre": null
+        },
+        {
+          "id": 4,
+          "nameMenu": "Clientes",
+          "titlePage": "Administracion de Clientes",
           "menuPadre": 2
+        },
+        {
+          "id": 5,
+          "nameMenu": "Comprobantes Anulados",
+          "titlePage": "Comprobantes Electrónicos Anulados",
+          "menuPadre": 3
         }
       ]
   },
