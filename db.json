@@ -70,7 +70,7 @@
       ]
   },
   "seller": {
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1OTQzOTA1MzIsImV4cCI6MTYyNjAxMjkzMiwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImlkRW1wcmVzYSI6IjE3NDY4NzY2NTAwMSIsIm5vbWJyZVVzdWFyaW8iOiJwYXVsLmFsY2l2YXIiLCJwZXJmaWwiOiJBTVQiLCJlc3RhZG8iOiJQUkkifQ.T9ZZ2LMb-3AgAgo-sqCT6yC6yq9OIOB8SjPd1ECo-SI",
+      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1OTQ1MzExOTEsImV4cCI6MTYyNjA2NzE5MSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImlkRW1wcmVzYSI6IjE3MjYwMzk5NjciLCJub21icmVVc3VhcmlvIjoicm9sYW5kby5jYWNoaXB1ZW5kbyIsInBlcmZpbCI6IklOVCIsImVzdGFkbyI6IkFDVCJ9.kGtw-Mm361196uSvzvmOtHIauvuW6T_o5z2Du7qmVFY",
       "recursos": [
         {
           "id": 1,
