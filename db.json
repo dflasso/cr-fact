@@ -1,7 +1,7 @@
 {
   "admin-primer-logeo": {
       "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKV1QgREVWIiwiaWF0IjoxNTk0NDIwNDMzLCJleHAiOjE2MjU5NTY0MzMsImF1ZCI6Ind3dy5leGFtcGxlLmNvbSIsInN1YiI6Impyb2NrZXRAZXhhbXBsZS5jb20iLCJpZEVtcHJlc2EiOiIxNzI2MDM5OTY3Iiwibm9tYnJlVXN1YXJpbyI6InBhdWwuYWxjaXZhciIsInBlcmZpbCI6IkFETSIsImVzdGFkbyI6IlBSSSJ9.NkdpM6PHxDZu5GNUTblnO7pmqqj15uNs6r9wiEL78YI",
-      "recursos": [
+ "recursos": [
         {
           "id": 1,
           "nameMenu": "Inicio",
@@ -30,6 +30,42 @@
           "id": 5,
           "nameMenu": "Comprobantes Anulados",
           "titlePage": "Comprobantes Electrónicos Anulados",
+          "menuPadre": 3
+        },
+        {
+          "id": 6,
+          "nameMenu": "Numeraciones de Comprobantes Electrónicos",
+          "titlePage": "Administración de Numeraciones para Comprobantes Electrónicos",
+          "menuPadre": 2
+        },
+        {
+          "id": 7,
+          "nameMenu": "Productos/Servicios",
+          "titlePage": "Administración de Productos/Servicios",
+          "menuPadre": 2
+        },
+        {
+          "id": 8,
+          "nameMenu": "Usuarios",
+          "titlePage": "Administración de Usuarios",
+          "menuPadre": 2
+        },
+        {
+          "id": 9,
+          "nameMenu": "Comprobantes Emitidos Autorizados",
+          "titlePage": "Comprobantes Emitidos Autorizados",
+          "menuPadre": 3
+        },
+        {
+          "id": 10,
+          "nameMenu": "Comprobantes Emitidos No Autorizados",
+          "titlePage": "Comprobantes Emitidos No Autorizados",
+          "menuPadre": 3
+        },
+        {
+          "id": 11,
+          "nameMenu": "Comprobantes Recibidos Autorizados",
+          "titlePage": "Comprobantes Recibidos Autorizados",
           "menuPadre": 3
         }
       ]
@@ -65,6 +101,42 @@
           "id": 5,
           "nameMenu": "Comprobantes Anulados",
           "titlePage": "Comprobantes Electrónicos Anulados",
+          "menuPadre": 3
+        },
+        {
+          "id": 6,
+          "nameMenu": "Numeraciones de Comprobantes Electrónicos",
+          "titlePage": "Administración de Numeraciones para Comprobantes Electrónicos",
+          "menuPadre": 2
+        },
+        {
+          "id": 7,
+          "nameMenu": "Productos/Servicios",
+          "titlePage": "Administración de Productos/Servicios",
+          "menuPadre": 2
+        },
+        {
+          "id": 8,
+          "nameMenu": "Usuarios",
+          "titlePage": "Administración de Usuarios",
+          "menuPadre": 2
+        },
+        {
+          "id": 9,
+          "nameMenu": "Comprobantes Emitidos Autorizados",
+          "titlePage": "Comprobantes Emitidos Autorizados",
+          "menuPadre": 3
+        },
+        {
+          "id": 10,
+          "nameMenu": "Comprobantes Emitidos No Autorizados",
+          "titlePage": "Comprobantes Emitidos No Autorizados",
+          "menuPadre": 3
+        },
+        {
+          "id": 11,
+          "nameMenu": "Comprobantes Recibidos Autorizados",
+          "titlePage": "Comprobantes Recibidos Autorizados",
           "menuPadre": 3
         }
       ]
