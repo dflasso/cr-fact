@@ -64,8 +64,8 @@
         },
         {
           "id": 11,
-          "nameMenu": "Comprobantes Recibidos Autorizados",
-          "titlePage": "Comprobantes Recibidos Autorizados",
+          "nameMenu": "Comprobantes Pendientes",
+          "titlePage": "Comprobantes Pendientes",
           "menuPadre": 3
         }
       ]
