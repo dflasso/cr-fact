@@ -144,7 +144,13 @@
           "nameMenu": "Comprobantes Recibidos Autorizados",
           "titlePage": "Comprobantes Recibidos Autorizados",
           "menuPadre": 3
-        }
+        },
+        {
+          "id": 12,
+          "nameMenu": "Proveedores",
+          "titlePage": "Administración de Proveedores",
+          "menuPadre": 2
+        },
       ]
   },
   "seller": {
