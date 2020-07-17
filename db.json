@@ -73,7 +73,7 @@
           "nameMenu": "Proveedores",
           "titlePage": "Administración de Proveedores",
           "menuPadre": 2
-        },
+        }
       ]
   },
  "admin": {
@@ -150,7 +150,7 @@
           "nameMenu": "Proveedores",
           "titlePage": "Administración de Proveedores",
           "menuPadre": 2
-        },
+        }
       ]
   },
   "seller": {
