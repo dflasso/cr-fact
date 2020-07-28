@@ -76,7 +76,7 @@
         },
         {
           "id": 13,
-          "nameMenu": "Asignación de Secuenciales al usuario",
+          "nameMenu": "Asignación de Secuenciales",
           "titlePage": "Asignación de Secuenciales al usuario",
           "menuPadre": 2
         }
@@ -159,7 +159,7 @@
         },
         {
           "id": 13,
-          "nameMenu": "Asignación de Secuenciales al usuario",
+          "nameMenu": "Asignación de Secuenciales",
           "titlePage": "Asignación de Secuenciales al usuario",
           "menuPadre": 2
         }
