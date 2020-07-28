@@ -34,8 +34,8 @@
         },
         {
           "id": 6,
-          "nameMenu": "Numeraciones de Comprobantes Electrónicos",
-          "titlePage": "Administración de Numeraciones para Comprobantes Electrónicos",
+          "nameMenu": "Administración de Secuenciales",
+          "titlePage": "Administración de Secuenciales",
           "menuPadre": 2
         },
         {
@@ -73,7 +73,13 @@
           "nameMenu": "Proveedores",
           "titlePage": "Administración de Proveedores",
           "menuPadre": 2
-        }
+        },
+        {
+          "id": 13,
+          "nameMenu": "Asignación de Secuenciales al usuario",
+          "titlePage": "Asignación de Secuenciales al usuario",
+          "menuPadre": 2
+        },
       ]
   },
  "admin": {
@@ -111,8 +117,8 @@
         },
         {
           "id": 6,
-          "nameMenu": "Numeraciones de Comprobantes Electrónicos",
-          "titlePage": "Administración de Numeraciones para Comprobantes Electrónicos",
+          "nameMenu": "Administración de Secuenciales",
+          "titlePage": "Administración de Secuenciales",
           "menuPadre": 2
         },
         {
@@ -150,7 +156,13 @@
           "nameMenu": "Proveedores",
           "titlePage": "Administración de Proveedores",
           "menuPadre": 2
-        }
+        },
+        {
+          "id": 13,
+          "nameMenu": "Asignación de Secuenciales al usuario",
+          "titlePage": "Asignación de Secuenciales al usuario",
+          "menuPadre": 2
+        },
       ]
   },
   "seller": {
