@@ -79,7 +79,7 @@
           "nameMenu": "Asignación de Secuenciales al usuario",
           "titlePage": "Asignación de Secuenciales al usuario",
           "menuPadre": 2
-        },
+        }
       ]
   },
  "admin": {
@@ -162,7 +162,7 @@
           "nameMenu": "Asignación de Secuenciales al usuario",
           "titlePage": "Asignación de Secuenciales al usuario",
           "menuPadre": 2
-        },
+        }
       ]
   },
   "seller": {
