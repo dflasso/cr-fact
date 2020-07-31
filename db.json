@@ -81,49 +81,43 @@
           "menuPadre": 2
         },
         {
-          "id": 4
+          "id": 14,
           "nameMenu": "Generación de Comprobantes",
           "titlePage": "Generación de Comprobantes",
           "menuPadre": null
         },
         {
-          "id": 14
-          "nameMenu": "Generación de Comprobantes",
-          "titlePage": "Generación de Comprobantes",
-          "menuPadre": null
-        },
-        {
-          "id": 15
+          "id": 15,
           "nameMenu": "Factura",
           "titlePage": "Factura",
           "menuPadre": 14
         },
         {
-          "id": 16
+          "id": 16,
           "nameMenu": "Guía de Remisión",
           "titlePage": "Guía de Remisión",
           "menuPadre": 14
         },
         {
-          "id": 17
+          "id": 17,
           "nameMenu": "Nota de Crédito",
           "titlePage": "Nota de Crédito",
           "menuPadre": 14
         },
         {
-          "id": 18
+          "id": 18,
           "nameMenu": "Nota de Débito",
           "titlePage": "Nota de Débito",
           "menuPadre": 14
         },
         {
-          "id": 19
+          "id": 19,
           "nameMenu": "Notificaciones Comprobantes Pendientes.",
           "titlePage": "Notificaciones Comprobantes Pendientes.",
           "menuPadre": 14
         },
         {
-          "id": 20
+          "id": 20,
           "nameMenu": "Retención",
           "titlePage": "Retención",
           "menuPadre": 14
@@ -211,43 +205,43 @@
           "titlePage": "Asignación de Secuenciales al usuario",
           "menuPadre": 2
         },
-          "id": 14
+          "id": 14,
           "nameMenu": "Generación de Comprobantes",
           "titlePage": "Generación de Comprobantes",
           "menuPadre": null
         },
         {
-          "id": 15
+          "id": 15,
           "nameMenu": "Factura",
           "titlePage": "Factura",
           "menuPadre": 14
         },
         {
-          "id": 16
+          "id": 16,
           "nameMenu": "Guía de Remisión",
           "titlePage": "Guía de Remisión",
           "menuPadre": 14
         },
         {
-          "id": 17
+          "id": 17,
           "nameMenu": "Nota de Crédito",
           "titlePage": "Nota de Crédito",
           "menuPadre": 14
         },
         {
-          "id": 18
+          "id": 18,
           "nameMenu": "Nota de Débito",
           "titlePage": "Nota de Débito",
           "menuPadre": 14
         },
         {
-          "id": 19
+          "id": 19,
           "nameMenu": "Notificaciones Comprobantes Pendientes.",
           "titlePage": "Notificaciones Comprobantes Pendientes.",
           "menuPadre": 14
         },
         {
-          "id": 20
+          "id": 20,
           "nameMenu": "Retención",
           "titlePage": "Retención",
           "menuPadre": 14
