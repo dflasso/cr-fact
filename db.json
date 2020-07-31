@@ -205,6 +205,7 @@
           "titlePage": "Asignación de Secuenciales al usuario",
           "menuPadre": 2
         },
+        {
           "id": 14,
           "nameMenu": "Generación de Comprobantes",
           "titlePage": "Generación de Comprobantes",
