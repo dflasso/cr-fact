@@ -1,9 +1,10 @@
 {
   "user-info":{
-    "name":"",
-    "lastname":"",
-    "telephone":"",
-    "email":""
+    "name":"Carlos Xavier",
+    "lastname":"Pérez Lozada",
+    "CI" : "1799065218",
+    "telephone":"0976556172",
+    "email":"carlos@gmail.com"
   },
   "user-accounts":[
     {
