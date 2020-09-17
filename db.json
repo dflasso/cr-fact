@@ -1,284 +1,40 @@
 {
-  "admin-primer-logeo": {
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJKV1QgREVWIiwiaWF0IjoxNTk0NDIwNDMzLCJleHAiOjE2MjU5NTY0MzMsImF1ZCI6Ind3dy5leGFtcGxlLmNvbSIsInN1YiI6Impyb2NrZXRAZXhhbXBsZS5jb20iLCJpZEVtcHJlc2EiOiIxNzI2MDM5OTY3Iiwibm9tYnJlVXN1YXJpbyI6InBhdWwuYWxjaXZhciIsInBlcmZpbCI6IkFETSIsImVzdGFkbyI6IlBSSSJ9.NkdpM6PHxDZu5GNUTblnO7pmqqj15uNs6r9wiEL78YI",
- "recursos": [
-        {
-          "id": 1,
-          "nameMenu": "Inicio",
-          "titlePage": "Inicio",
-          "menuPadre": null
-        },
-        {
-          "id": 2,
-          "nameMenu": "Administracion",
-          "titlePage": "Administracion",
-          "menuPadre": null
-        },
-        {
-          "id": 3,
-          "nameMenu": "Repositorio de Comprobantes",
-          "titlePage": "Administracion de Usuarios",
-          "menuPadre": null
-        },
-        {
-          "id": 4,
-          "nameMenu": "Clientes",
-          "titlePage": "Administracion de Clientes",
-          "menuPadre": 2
-        },
-        {
-          "id": 5,
-          "nameMenu": "Comprobantes Anulados",
-          "titlePage": "Comprobantes Electrónicos Anulados",
-          "menuPadre": 3
-        },
-        {
-          "id": 6,
-          "nameMenu": "Administración de Secuenciales",
-          "titlePage": "Administración de Secuenciales",
-          "menuPadre": 2
-        },
-        {
-          "id": 7,
-          "nameMenu": "Productos/Servicios",
-          "titlePage": "Administración de Productos/Servicios",
-          "menuPadre": 2
-        },
-        {
-          "id": 8,
-          "nameMenu": "Usuarios",
-          "titlePage": "Administración de Usuarios",
-          "menuPadre": 2
-        },
-        {
-          "id": 9,
-          "nameMenu": "Comprobantes Emitidos Autorizados",
-          "titlePage": "Comprobantes Emitidos Autorizados",
-          "menuPadre": 3
-        },
-        {
-          "id": 10,
-          "nameMenu": "Comprobantes Emitidos No Autorizados",
-          "titlePage": "Comprobantes Emitidos No Autorizados",
-          "menuPadre": 3
-        },
-        {
-          "id": 11,
-          "nameMenu": "Comprobantes Pendientes",
-          "titlePage": "Comprobantes Pendientes",
-          "menuPadre": 3
-        },
-        {
-          "id": 12,
-          "nameMenu": "Proveedores",
-          "titlePage": "Administración de Proveedores",
-          "menuPadre": 2
-        },
-        {
-          "id": 13,
-          "nameMenu": "Asignación de Secuenciales",
-          "titlePage": "Asignación de Secuenciales al usuario",
-          "menuPadre": 2
-        },
-        {
-          "id": 14,
-          "nameMenu": "Generación de Comprobantes",
-          "titlePage": "Generación de Comprobantes",
-          "menuPadre": null
-        },
-        {
-          "id": 15,
-          "nameMenu": "Factura",
-          "titlePage": "Factura",
-          "menuPadre": 14
-        },
-        {
-          "id": 16,
-          "nameMenu": "Guía de Remisión",
-          "titlePage": "Guía de Remisión",
-          "menuPadre": 14
-        },
-        {
-          "id": 17,
-          "nameMenu": "Nota de Crédito",
-          "titlePage": "Nota de Crédito",
-          "menuPadre": 14
-        },
-        {
-          "id": 18,
-          "nameMenu": "Nota de Débito",
-          "titlePage": "Nota de Débito",
-          "menuPadre": 14
-        },
-        {
-          "id": 19,
-          "nameMenu": "Notificaciones Comprobantes Pendientes.",
-          "titlePage": "Notificaciones Comprobantes Pendientes.",
-          "menuPadre": 14
-        },
-        {
-          "id": 20,
-          "nameMenu": "Retención",
-          "titlePage": "Retención",
-          "menuPadre": 14
-        }
-      ]
+  "user-info":{
+    "name":"",
+    "lastname":"",
+    "telephone":"",
+    "email":""
   },
- "admin": {
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1OTQ1ODMwMTMsImV4cCI6MTYyNjExOTAxMywiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImlkRW1wcmVzYSI6IjE3OTE5MDEyMTUwMDEiLCJub21icmVVc3VhcmlvIjoicGF1bC5hbGNpdmFyIiwicGVyZmlsIjoiQURNIiwiZXN0YWRvIjoiQUNUIn0.Yc4wjH02kYM9RSTwz6xE09UywNJH7W-nTALBgeZ8JjU",
-      "recursos": [
-        {
-          "id": 1,
-          "nameMenu": "Inicio",
-          "titlePage": "Inicio",
-          "menuPadre": null
-        },
-        {
-          "id": 2,
-          "nameMenu": "Administracion",
-          "titlePage": "Administracion",
-          "menuPadre": null
-        },
-        {
-          "id": 3,
-          "nameMenu": "Repositorio de Comprobantes",
-          "titlePage": "Administracion de Usuarios",
-          "menuPadre": null
-        },
-        {
-          "id": 4,
-          "nameMenu": "Clientes",
-          "titlePage": "Administracion de Clientes",
-          "menuPadre": 2
-        },
-        {
-          "id": 5,
-          "nameMenu": "Comprobantes Anulados",
-          "titlePage": "Comprobantes Electrónicos Anulados",
-          "menuPadre": 3
-        },
-        {
-          "id": 6,
-          "nameMenu": "Administración de Secuenciales",
-          "titlePage": "Administración de Secuenciales",
-          "menuPadre": 2
-        },
-        {
-          "id": 7,
-          "nameMenu": "Productos/Servicios",
-          "titlePage": "Administración de Productos/Servicios",
-          "menuPadre": 2
-        },
-        {
-          "id": 8,
-          "nameMenu": "Usuarios",
-          "titlePage": "Administración de Usuarios",
-          "menuPadre": 2
-        },
-        {
-          "id": 9,
-          "nameMenu": "Comprobantes Emitidos Autorizados",
-          "titlePage": "Comprobantes Emitidos Autorizados",
-          "menuPadre": 3
-        },
-        {
-          "id": 10,
-          "nameMenu": "Comprobantes Emitidos No Autorizados",
-          "titlePage": "Comprobantes Emitidos No Autorizados",
-          "menuPadre": 3
-        },
-        {
-          "id": 11,
-          "nameMenu": "Comprobantes Recibidos Autorizados",
-          "titlePage": "Comprobantes Recibidos Autorizados",
-          "menuPadre": 3
-        },
-        {
-          "id": 12,
-          "nameMenu": "Proveedores",
-          "titlePage": "Administración de Proveedores",
-          "menuPadre": 2
-        },
-        {
-          "id": 13,
-          "nameMenu": "Asignación de Secuenciales",
-          "titlePage": "Asignación de Secuenciales al usuario",
-          "menuPadre": 2
-        },
-        {
-          "id": 14,
-          "nameMenu": "Generación de Comprobantes",
-          "titlePage": "Generación de Comprobantes",
-          "menuPadre": null
-        },
-        {
-          "id": 15,
-          "nameMenu": "Factura",
-          "titlePage": "Factura",
-          "menuPadre": 14
-        },
-        {
-          "id": 16,
-          "nameMenu": "Guía de Remisión",
-          "titlePage": "Guía de Remisión",
-          "menuPadre": 14
-        },
-        {
-          "id": 17,
-          "nameMenu": "Nota de Crédito",
-          "titlePage": "Nota de Crédito",
-          "menuPadre": 14
-        },
-        {
-          "id": 18,
-          "nameMenu": "Nota de Débito",
-          "titlePage": "Nota de Débito",
-          "menuPadre": 14
-        },
-        {
-          "id": 19,
-          "nameMenu": "Notificaciones Comprobantes Pendientes.",
-          "titlePage": "Notificaciones Comprobantes Pendientes.",
-          "menuPadre": 14
-        },
-        {
-          "id": 20,
-          "nameMenu": "Retención",
-          "titlePage": "Retención",
-          "menuPadre": 14
-        }
-      ]
-  },
-  "seller": {
-      "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJPbmxpbmUgSldUIEJ1aWxkZXIiLCJpYXQiOjE1OTQ1MzExOTEsImV4cCI6MTYyNjA2NzE5MSwiYXVkIjoid3d3LmV4YW1wbGUuY29tIiwic3ViIjoianJvY2tldEBleGFtcGxlLmNvbSIsImlkRW1wcmVzYSI6IjE3MjYwMzk5NjciLCJub21icmVVc3VhcmlvIjoicm9sYW5kby5jYWNoaXB1ZW5kbyIsInBlcmZpbCI6IklOVCIsImVzdGFkbyI6IkFDVCJ9.kGtw-Mm361196uSvzvmOtHIauvuW6T_o5z2Du7qmVFY",
-      "recursos": [
-        {
-          "id": 1,
-          "nameMenu": "Inicio",
-          "titlePage": "Inicio",
-          "menuPadre": true
-        },
-        {
-          "id": 2,
-          "nameMenu": "Administracion",
-          "titlePage": "Administracion",
-          "menuPadre": null
-        },
-        {
-          "id": 3,
-          "nameMenu": "Clientes",
-          "titlePage": "Administracion de Clientes",
-          "menuPadre": 2
-        },
-        {
-          "id": 4,
-          "nameMenu": "Productos / Servicios",
-          "titlePage": "Administracion de Productos / Servicios",
-          "menuPadre": 2
-        }
-      ]
-  },
-  "profile": {
-    "name": "typicode"
-  }
+  "user-accounts":[
+    {
+      "NumAccount" : "172507598691",
+      "nameFinancialEntity": "Alianza del Valle"
+    },
+    {
+      "NumAccount" : "208807598671",
+      "nameFinancialEntity": "Policia Nacional"
+    }
+  ],
+  "all-financial-entitys":[
+    {
+       "nameFinancialEntity": "Policia Nacional",
+       "imgUrl": "https://www.cpn.fin.ec/frontend/web/images/logo_cpn.jpg"
+    },
+    {
+       "nameFinancialEntity": "Alianza del Valle",
+       "imgUrl": "https://www.alianzadelvalle.fin.ec/wp-content/uploads/2019/04/logo-ADV.png"
+    },
+    {
+       "nameFinancialEntity": "Jep",
+       "imgUrl": "https://pbs.twimg.com/profile_images/1141766953532624897/Wlxm9PKd.png"
+    },
+    {
+       "nameFinancialEntity": "29 de octubre",
+       "imgUrl": "https://ecuadorec.com/wp-content/uploads/2016/07/cooperativa.png"
+    },
+    {
+       "nameFinancialEntity": "Andalucía",
+       "imgUrl": "https://webcontent.ec/andalucia/registro/images/logo-andalucia.svg"
+    }
+  ]
 }
