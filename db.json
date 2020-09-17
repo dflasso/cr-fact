@@ -37,7 +37,7 @@
        "imgUrl": "https://webcontent.ec/andalucia/registro/images/logo-andalucia.svg"
     }
   ],
-  "consult-detail-account":{
+  "consult-detail-account-user":{
     "balance" : 890.88,
     "transactions": [
       { 
@@ -53,6 +53,9 @@
         "type" : "debit"
       }
     ]
+  },
+  "consultar-info-public-account-by-num-and-financial-entitys":{
+    "nameOwner" : "Luis Benítez",
+    "numAccount" : "308807598671",
   }
-  
 }
