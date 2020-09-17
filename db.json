@@ -36,5 +36,23 @@
        "nameFinancialEntity": "Andalucía",
        "imgUrl": "https://webcontent.ec/andalucia/registro/images/logo-andalucia.svg"
     }
-  ]
+  ],
+  "consult-detail-account":{
+    "balance" : 890.88,
+    "transactions": [
+      { 
+        "date" : "01/09/2020",
+        "description" : "Deposito de Pedro Huerta.",
+        "amount" : 220.70,
+        "type" : "accredit"
+      },
+      { 
+        "date" : "09/09/2020",
+        "description" : "Pago Luz",
+        "amount" : 10.70,
+        "type" : "debit"
+      }
+    ]
+  },
+  
 }
