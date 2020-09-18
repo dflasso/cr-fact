@@ -46,8 +46,8 @@
     }
   ],
   "consult-detail-account-user":{
-    "nameFinancialEntity": "Alianza del Valle"
-     "imgUrl": "https://www.alianzadelvalle.fin.ec/wp-content/uploads/2019/04/logo-ADV.png",
+    "nameFinancialEntity": "Alianza del Valle",
+    "imgUrl": "https://www.alianzadelvalle.fin.ec/wp-content/uploads/2019/04/logo-ADV.png",
     "NumAccount" : "172507598691",
     "balance" : 890.88,
     "transactions": [
