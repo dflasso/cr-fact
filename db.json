@@ -43,6 +43,18 @@
     {
        "nameFinancialEntity": "Cooperativa de Ahorro y Crédito Andalucía",
        "imgUrl": "https://scalashopping.com/wp-content/uploads/2020/07/andalucia.png"
+    },
+      {
+       "nameFinancialEntity": "Cooperativa Mushuc Runa",
+       "imgUrl": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
+    },
+    {
+       "nameFinancialEntity": "Cooperativa Ahorro y Crédito - Cooprogreso",
+       "imgUrl": "https://pbs.twimg.com/profile_images/796469810414678016/YUtsuaa5.jpg"
+    },
+    {
+       "nameFinancialEntity": "Cooperativa 23 de julio",
+       "imgUrl": "https://www.coop23dejulio.fin.ec/simulador/images/logo-cooperativa-23-de-julio.png"
     }
   ],
   "consult-detail-account-user":{
