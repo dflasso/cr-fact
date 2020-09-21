@@ -25,24 +25,24 @@
   ],
   "all-financial-entitys":[
     {
-       "nameFinancialEntity": "Policia Nacional",
+       "nameFinancialEntity": "Cooperativa De Ahorro Y Credito Policia Nacional Ltda.",
        "imgUrl": "https://www.cpn.fin.ec/frontend/web/images/logo_cpn.jpg"
     },
     {
-       "nameFinancialEntity": "Alianza del Valle",
+       "nameFinancialEntity": "Cooperativa Alianza del Valle",
        "imgUrl": "https://www.alianzadelvalle.fin.ec/wp-content/uploads/2019/04/logo-ADV.png"
     },
     {
-       "nameFinancialEntity": "Jep",
+       "nameFinancialEntity": "Cooperativa de Ahorro y Crédito JEP",
        "imgUrl": "https://pbs.twimg.com/profile_images/1141766953532624897/Wlxm9PKd.png"
     },
     {
-       "nameFinancialEntity": "29 de octubre",
+       "nameFinancialEntity": "Cooperativa de Ahorro y Crédito 29 de octubre",
        "imgUrl": "https://ecuadorec.com/wp-content/uploads/2016/07/cooperativa.png"
     },
     {
-       "nameFinancialEntity": "Andalucía",
-       "imgUrl": "https://webcontent.ec/andalucia/registro/images/logo-andalucia.svg"
+       "nameFinancialEntity": "Cooperativa de Ahorro y Crédito Andalucía",
+       "imgUrl": "https://scalashopping.com/wp-content/uploads/2020/07/andalucia.png"
     }
   ],
   "consult-detail-account-user":{
