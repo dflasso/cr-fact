@@ -88,5 +88,9 @@
   "consultar-info-public-account-by-num-and-financial-entitys":{
     "nameOwner" : "Luis Benítez",
     "numAccount" : "308807598671"
+  },
+   "validate-transfer":{
+    "msg" : "Es posible realizr la transacción",
+    "status" : "200"
   }
 }
