@@ -26,34 +26,42 @@
   "all-financial-entitys":[
     {
        "nameFinancialEntity": "Cooperativa De Ahorro Y Credito Policia Nacional Ltda.",
+      "RUC":"1790866084001",
        "imgUrl": "https://www.cpn.fin.ec/frontend/web/images/logo_cpn.jpg"
     },
     {
        "nameFinancialEntity": "Cooperativa Alianza del Valle",
+      "RUC":"1790866082001",
        "imgUrl": "https://www.alianzadelvalle.fin.ec/wp-content/uploads/2019/04/logo-ADV.png"
     },
     {
        "nameFinancialEntity": "Cooperativa de Ahorro y Crédito JEP",
+      "RUC":"1790866081001",
        "imgUrl": "https://pbs.twimg.com/profile_images/1141766953532624897/Wlxm9PKd.png"
     },
     {
        "nameFinancialEntity": "Cooperativa de Ahorro y Crédito 29 de octubre",
+      "RUC":"1790866083001",
        "imgUrl": "https://ecuadorec.com/wp-content/uploads/2016/07/cooperativa.png"
     },
     {
        "nameFinancialEntity": "Cooperativa de Ahorro y Crédito Andalucía",
+      "RUC":"1790866087001",
        "imgUrl": "https://scalashopping.com/wp-content/uploads/2020/07/andalucia.png"
     },
       {
        "nameFinancialEntity": "Cooperativa Mushuc Runa",
+        "RUC":"1790866086001",
        "imgUrl": "https://www.mushucruna.com/wp-content/uploads/2019/06/logo-png-positivo-vertical.png"
     },
     {
        "nameFinancialEntity": "Cooperativa Ahorro y Crédito - Cooprogreso",
+      "RUC":"1790866085001",
        "imgUrl": "https://pbs.twimg.com/profile_images/796469810414678016/YUtsuaa5.jpg"
     },
     {
        "nameFinancialEntity": "Cooperativa 23 de julio",
+      "RUC":"1790866088001",
        "imgUrl": "https://www.coop23dejulio.fin.ec/simulador/images/logo-cooperativa-23-de-julio.png"
     }
   ],
