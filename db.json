@@ -87,6 +87,8 @@
   },
    "validate-transfer-and-payment":{
     "msg" : "Es posible realizr la operación",
-    "status" : "200"
+    "status" : "200",
+     "nameOwnerAccountDestion" :"Luis Calle",
+     "payment value" : 33.88
   }
 }
